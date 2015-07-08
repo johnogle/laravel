@@ -45,7 +45,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
-                <div class="quote">{{ Inspiring::quote() }}<p>Suki Poopy Grassy mulch Ball</p></div>
+                <div class="quote">{{ Inspiring::quote() }}<p>RIP Suki</p></div>
             </div>
         </div>
     </body>
